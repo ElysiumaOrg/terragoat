@@ -619,6 +619,7 @@ If you need direct support you can contact us at [info@bridgecrew.io](mailto:inf
 |  1 | CKV_SECRET_6 | /aws/lambda.tf    | d70eab08607a4d05faa2d0d6647206599e9abc65 | Base64 High Entropy String | https://docs.bridgecrew.io/docs/git_secrets_6 |
 |  2 | CKV_SECRET_2 | /aws/providers.tf | 25910f981e85ca04baf359199dd0bd4a3ae738b6 | AWS Access Key             | https://docs.bridgecrew.io/docs/git_secrets_2 |
 |  3 | CKV_SECRET_6 | /aws/providers.tf | d70eab08607a4d05faa2d0d6647206599e9abc65 | Base64 High Entropy String | https://docs.bridgecrew.io/docs/git_secrets_6 |
+
 |  4 | CKV_SECRET_6 | /azure/sql.tf     | a57ae0fe47084bc8a05f69f3f8083896f8b437b0 | Base64 High Entropy String | https://docs.bridgecrew.io/docs/git_secrets_6 |
 
 ---
